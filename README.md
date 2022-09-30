@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patrickngg
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning SQL,R, and Excel
-- 💞️ I’m looking to collaborate on Case Studies, Small to Large data projects to build experience.
+- 🌱 I’m currently learning SQL,R, Excel and eventually Python
+- 💞️ I’m looking to collaborate on Case Studies, Small to Large data projects to build experience and enter the field of Data Analytics.
 - 📫 How to reach me:
 - Email: Patrickk.ngg@gmail.com
 - LinkedIn: https://www.linkedin.com/in/patrickng14/
